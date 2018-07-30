@@ -1,0 +1,15 @@
+.bg-bar{
+    height: 25px;
+    width: 100%;
+    background: grey;
+  }
+  .progress{
+    position:absolute;
+    height: 25px;
+    top:0;
+    background: blue;
+  }
+  .progressBar{
+    width:100%;
+    position:relative;
+  }
