@@ -6,8 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      la puta madre
-        
+      <p> Progress bar</p>
         <ProgressBar percentage={65}/>
       </div>
     );
